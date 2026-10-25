@@ -25,6 +25,10 @@ https://github.com/user-attachments/assets/ffb92f08-c4bf-4ff3-8912-ff3dc758ef4d
 
 ## 📖 Sobre o Projeto
 
+> [!IMPORTANT]
+> **Todos os dados apresentados nesta demonstração são 100% fictícios e foram criados exclusivamente para fins de desenvolvimento, testes e apresentação do projeto.**
+>
+> **Nenhuma informação real de pacientes, profissionais, instituições ou equipamentos está sendo utilizada.**
 O **HubManager** é um sistema web desenvolvido para auxiliar na gestão de equipamentos, manutenções preventivas e corretivas, solicitações internas e geração de relatórios em ambientes hospitalares e laboratoriais.
 
 Este projeto representa minha evolução como desenvolvedor ao longo da graduação. Conforme meus conhecimentos em programação, banco de dados e desenvolvimento web aumentavam, o sistema também evoluía, recebendo novas funcionalidades, melhorias de arquitetura e refinamentos de interface.
