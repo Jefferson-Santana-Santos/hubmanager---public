@@ -259,7 +259,7 @@ Todos os dados apresentados nos vídeos, imagens e demonstrações do sistema ut
 
 <div align="center">
 
-### 👨‍💻 Desenvolvido por Jefferson
+### 👨‍💻 Desenvolvido por Jefferson Santana dos Santos
 
 *"Aprender, construir, melhorar e evoluir continuamente."*
 
